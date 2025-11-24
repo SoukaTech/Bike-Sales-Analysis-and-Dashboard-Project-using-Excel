@@ -15,7 +15,7 @@ This project is a guided Excel dashboard project designed to practice data clean
 - Shorter commute distances (0–1 miles) see higher purchase rates, suggesting potential for local promotions.
 
 ## Technologies Used
-- Microsoft Excel (Cloud)  
+- Microsoft Excel  
 - Pivot Tables, Charts, Slicers, Dashboard  
 
 ## Screenshots
