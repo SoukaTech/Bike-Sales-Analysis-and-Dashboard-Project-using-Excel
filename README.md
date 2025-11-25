@@ -1,7 +1,7 @@
-# Excel Bike Sales Dashboard – Guided Project
+# Excel Bike Sales Dashboard 
 
 ## Project Overview
-This project is a guided Excel dashboard project designed to practice data cleaning, analysis, and visualization. It demonstrates proficiency in using Excel tools such as pivot tables, charts, slicers, and dashboards to extract insights from sales data.
+This project is an Excel dashboard project designed to practice data cleaning, analysis, and visualization. It demonstrates proficiency in using Excel tools such as pivot tables, charts, slicers, and dashboards to extract insights from sales data.
 
 ## Key Features
 - Cleaned and organized raw data for analysis.  
